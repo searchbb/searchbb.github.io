@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T12:17:10.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="GQTEQlSmRQcEPLRJGkHZ" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-21T12:18:16.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="HCwYFu7_BfT67xYRiQ9v" version="14.8.0" type="github" pages="7">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -844,6 +844,9 @@
       <root>
         <mxCell id="wKVvCoXZwpyXN_E91BWx-0" />
         <mxCell id="wKVvCoXZwpyXN_E91BWx-1" parent="wKVvCoXZwpyXN_E91BWx-0" />
+        <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-53" value="客户端核心模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#36393d;strokeWidth=2;fillColor=#cdeb8b;fontFamily=Verdana;fontSize=28;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
+          <mxGeometry x="-106" y="85" width="985" height="591" as="geometry" />
+        </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-52" value="录制回放模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#36393d;strokeWidth=2;fillColor=#eeeeee;fontFamily=Verdana;fontSize=28;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
           <mxGeometry x="-77" y="145" width="637" height="387" as="geometry" />
         </mxCell>
@@ -978,7 +981,7 @@
           <mxGeometry x="-56" y="344.5" width="604" height="108" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-50" value="&lt;span style=&quot;font-size: 14px&quot;&gt;中间件接口层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#006658;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#5C5C5C;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
-          <mxGeometry x="-56" y="539" width="604" height="108" as="geometry" />
+          <mxGeometry x="-56" y="543" width="604" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
