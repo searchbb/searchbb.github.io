@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T09:01:31.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="ICyXYADWr68E0foxxBEn" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-21T09:03:22.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Vm4hH0Et5FGCJR_uV6OS" version="14.8.0" type="github" pages="5">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -690,10 +690,10 @@
           <mxGeometry x="640" y="257" width="324" height="143" as="geometry" />
         </mxCell>
         <mxCell id="3ZnefX6IKOevDLc3d49m-41" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#006658;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#5C5C5C;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="3ZnefX6IKOevDLc3d49m-1">
-          <mxGeometry x="526" y="696" width="402" height="177" as="geometry" />
+          <mxGeometry x="540" y="696" width="388" height="177" as="geometry" />
         </mxCell>
         <mxCell id="3ZnefX6IKOevDLc3d49m-42" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#006658;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#5C5C5C;align=center;arcSize=16;verticalAlign=top;dashed=1;" vertex="1" parent="3ZnefX6IKOevDLc3d49m-1">
-          <mxGeometry x="378" y="259" width="220" height="272" as="geometry" />
+          <mxGeometry x="378" y="259" width="220" height="225" as="geometry" />
         </mxCell>
         <mxCell id="3ZnefX6IKOevDLc3d49m-43" value="2. 录制流量时，对所有外部调用的入参与返回进行快照" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#5C5C5C;" vertex="1" parent="3ZnefX6IKOevDLc3d49m-1">
           <mxGeometry x="350" y="205" width="299" height="18" as="geometry" />
@@ -726,7 +726,7 @@
           <mxGeometry x="1060" y="391.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gaf2cSvMJsKFgvY3TFkf-14" value="外部写服务&lt;br&gt;（真实）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#006658;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#5C5C5C;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="3ZnefX6IKOevDLc3d49m-1">
-          <mxGeometry x="-203" y="155" width="179" height="331" as="geometry" />
+          <mxGeometry x="-203" y="155" width="179" height="316" as="geometry" />
         </mxCell>
         <mxCell id="Gaf2cSvMJsKFgvY3TFkf-15" value="外部写服务&lt;br&gt;（mock）" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#006658;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#5C5C5C;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="3ZnefX6IKOevDLc3d49m-1">
           <mxGeometry x="1025" y="156" width="179" height="325.5" as="geometry" />
