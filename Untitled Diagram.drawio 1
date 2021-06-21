@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T09:21:07.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="j8CsK0GREde8BdtXdxQv" version="14.8.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-21T12:00:35.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="7gR8Me025dSorFEnDoXZ" version="14.8.0" type="github" pages="6">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -760,7 +760,7 @@
           <mxGeometry x="481" y="754" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c5Y_scB65ZybVKwy6Cz_-21" value="1. 复制一定比例的真实流量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#5C5C5C;" vertex="1" parent="c5Y_scB65ZybVKwy6Cz_-1">
-          <mxGeometry x="111" y="205" width="155" height="18" as="geometry" />
+          <mxGeometry x="97" y="215" width="155" height="18" as="geometry" />
         </mxCell>
         <mxCell id="c5Y_scB65ZybVKwy6Cz_-24" value="request" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#6c8ebf;" vertex="1" parent="c5Y_scB65ZybVKwy6Cz_-1">
           <mxGeometry x="198" y="715" width="102" height="52" as="geometry" />
@@ -771,11 +771,11 @@
         <mxCell id="c5Y_scB65ZybVKwy6Cz_-26" value="线上服务实例" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#006658;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=28;fontColor=#5C5C5C;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="c5Y_scB65ZybVKwy6Cz_-1">
           <mxGeometry x="4" y="262.5" width="352" height="68.5" as="geometry" />
         </mxCell>
-        <mxCell id="c5Y_scB65ZybVKwy6Cz_-27" value="3. 回放流量时，所有子调用用真实的返回mock掉" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#5C5C5C;" vertex="1" parent="c5Y_scB65ZybVKwy6Cz_-1">
-          <mxGeometry x="529" y="507" width="268" height="18" as="geometry" />
+        <mxCell id="c5Y_scB65ZybVKwy6Cz_-27" value="3. 需要测试时，通过重放服务对被测系统进行流量重放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#5C5C5C;" vertex="1" parent="c5Y_scB65ZybVKwy6Cz_-1">
+          <mxGeometry x="460" y="512" width="299" height="18" as="geometry" />
         </mxCell>
         <mxCell id="c5Y_scB65ZybVKwy6Cz_-28" value="4. 根据两个环境的返回值的对比确认是否是bug" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#5C5C5C;" vertex="1" parent="c5Y_scB65ZybVKwy6Cz_-1">
-          <mxGeometry x="618" y="754" width="259" height="18" as="geometry" />
+          <mxGeometry x="460" y="699" width="259" height="18" as="geometry" />
         </mxCell>
         <mxCell id="c5Y_scB65ZybVKwy6Cz_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;endArrow=classic;endFill=1;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="c5Y_scB65ZybVKwy6Cz_-1" source="c5Y_scB65ZybVKwy6Cz_-30" target="c5Y_scB65ZybVKwy6Cz_-7">
           <mxGeometry relative="1" as="geometry" />
@@ -832,6 +832,9 @@
         </mxCell>
         <mxCell id="c5Y_scB65ZybVKwy6Cz_-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontColor=#5C5C5C;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#006658;strokeWidth=1;fillColor=#21C0A5;" edge="1" parent="c5Y_scB65ZybVKwy6Cz_-1" source="c5Y_scB65ZybVKwy6Cz_-55" target="c5Y_scB65ZybVKwy6Cz_-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c5Y_scB65ZybVKwy6Cz_-67" value="2. 对流量进行处理转换后存入流量池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#5C5C5C;" vertex="1" parent="c5Y_scB65ZybVKwy6Cz_-1">
+          <mxGeometry x="97" y="388" width="203" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
