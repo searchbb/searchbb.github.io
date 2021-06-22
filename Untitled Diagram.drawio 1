@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T03:11:52.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="A6bwcFbw71de_dLrTvj8" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-22T03:13:42.687Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="o-tUGEoHmg4ye2dZ1Y6E" version="14.8.0" type="github" pages="7">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1311" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,7 +232,7 @@
         <mxCell id="60e70716793133e9-30" value="End" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="310" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U-IQT2arNV9HaqFXlfOw-1" value="业务应用服务" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+        <mxCell id="U-IQT2arNV9HaqFXlfOw-1" value="业务应用服务" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;fillColor=#21C0A5;strokeColor=#006658;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="740" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-IQT2arNV9HaqFXlfOw-2" value="回放系统服务" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
@@ -469,13 +469,13 @@
         <mxCell id="cy3PkkS0rB-pApYmll1H-5" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;fontSize=15;" edge="1" parent="oQ9hn4UUhkUNAUTA1TyM-1" source="cy3PkkS0rB-pApYmll1H-0" target="cy3PkkS0rB-pApYmll1H-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cy3PkkS0rB-pApYmll1H-0" value="服务 B" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
+        <mxCell id="cy3PkkS0rB-pApYmll1H-0" value="服务 B" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#FFFFFF;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
           <mxGeometry x="33" y="364" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cy3PkkS0rB-pApYmll1H-1" value="录制客户端" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;fontSize=15;" vertex="1" parent="cy3PkkS0rB-pApYmll1H-0">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cy3PkkS0rB-pApYmll1H-2" value="服务 C" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
+        <mxCell id="cy3PkkS0rB-pApYmll1H-2" value="服务 C" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#FFFFFF;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
           <mxGeometry x="33" y="449" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cy3PkkS0rB-pApYmll1H-3" value="录制客户端" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;fontSize=15;" vertex="1" parent="cy3PkkS0rB-pApYmll1H-2">
@@ -495,7 +495,7 @@
         <mxCell id="s830Ju_xaia_rGk_bMV4-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;fontSize=15;" edge="1" parent="oQ9hn4UUhkUNAUTA1TyM-1" source="s830Ju_xaia_rGk_bMV4-3" target="s830Ju_xaia_rGk_bMV4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s830Ju_xaia_rGk_bMV4-3" value="服务 A" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
+        <mxCell id="s830Ju_xaia_rGk_bMV4-3" value="服务 A" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#FFFFFF;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
           <mxGeometry x="749" y="303" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="s830Ju_xaia_rGk_bMV4-4" value="回放客户端" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;fontSize=15;" vertex="1" parent="s830Ju_xaia_rGk_bMV4-3">
@@ -504,13 +504,13 @@
         <mxCell id="s830Ju_xaia_rGk_bMV4-5" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;fontSize=15;" edge="1" parent="oQ9hn4UUhkUNAUTA1TyM-1" source="s830Ju_xaia_rGk_bMV4-6" target="s830Ju_xaia_rGk_bMV4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s830Ju_xaia_rGk_bMV4-6" value="服务 B" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
+        <mxCell id="s830Ju_xaia_rGk_bMV4-6" value="服务 B" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#FFFFFF;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
           <mxGeometry x="749" y="384" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="s830Ju_xaia_rGk_bMV4-7" value="回放客户端" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;fontSize=15;" vertex="1" parent="s830Ju_xaia_rGk_bMV4-6">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="s830Ju_xaia_rGk_bMV4-8" value="服务 C" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
+        <mxCell id="s830Ju_xaia_rGk_bMV4-8" value="服务 C" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#21C0A5;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;strokeColor=#006658;fontColor=#FFFFFF;" vertex="1" parent="oQ9hn4UUhkUNAUTA1TyM-1">
           <mxGeometry x="749" y="469" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="s830Ju_xaia_rGk_bMV4-9" value="回放客户端" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;fontSize=15;" vertex="1" parent="s830Ju_xaia_rGk_bMV4-8">
