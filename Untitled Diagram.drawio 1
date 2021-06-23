@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T08:17:39.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="6lo2QmJZn9O9YSbkqWPs" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-23T08:44:49.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="Iyhav0dimYMe3J0bdtRe" version="14.8.0" type="github" pages="7">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1311" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1013,10 +1013,10 @@
           <mxGeometry x="-49" y="246" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-4" value="脚本引擎" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
-          <mxGeometry x="656" y="253" width="120" height="40" as="geometry" />
+          <mxGeometry x="667" y="203" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-20" value="对比分析模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Verdana;fontSize=20;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
-          <mxGeometry x="581" y="195" width="267" height="279" as="geometry" />
+          <mxGeometry x="592" y="145" width="267" height="279" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#5C5C5C;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;fillColor=#21C0A5;fontSize=15;" edge="1" parent="wKVvCoXZwpyXN_E91BWx-1" source="tCC0ASD0TJFF3Cbg9Hrz-28" target="tCC0ASD0TJFF3Cbg9Hrz-46">
           <mxGeometry relative="1" as="geometry" />
@@ -1049,13 +1049,13 @@
           <mxGeometry x="365" y="587" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-39" value="对比工具" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
-          <mxGeometry x="653.25" y="278" width="120" height="40" as="geometry" />
+          <mxGeometry x="664.25" y="228" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-40" value="运行统计" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
-          <mxGeometry x="653.25" y="333.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="664.25" y="283.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-41" value="脚本引擎" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
-          <mxGeometry x="655.75" y="386.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="666.75" y="336.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tCC0ASD0TJFF3Cbg9Hrz-44" value="中间件拦截器" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
           <mxGeometry x="260" y="390" width="120" height="40" as="geometry" />
@@ -1088,7 +1088,7 @@
           <mxGeometry x="658" y="953" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0IH14s1VNWrK728Zmdaf-6" value="统计分析模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Verdana;fontSize=20;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
-          <mxGeometry x="583" y="895" width="267" height="310" as="geometry" />
+          <mxGeometry x="583" y="895" width="267" height="333" as="geometry" />
         </mxCell>
         <mxCell id="0IH14s1VNWrK728Zmdaf-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;管理层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#006658;strokeWidth=2;fillColor=none;fontFamily=Verdana;fontSize=15;fontColor=#5C5C5C;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
           <mxGeometry x="-54" y="899" width="604" height="116" as="geometry" />
@@ -1122,6 +1122,18 @@
         </mxCell>
         <mxCell id="0IH14s1VNWrK728Zmdaf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.515;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="wKVvCoXZwpyXN_E91BWx-1" source="0IH14s1VNWrK728Zmdaf-9" target="0IH14s1VNWrK728Zmdaf-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0IH14s1VNWrK728Zmdaf-26" value="脚本引擎" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
+          <mxGeometry x="673" y="499" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0IH14s1VNWrK728Zmdaf-27" value="对比分析模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Verdana;fontSize=20;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
+          <mxGeometry x="598" y="441" width="267" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0IH14s1VNWrK728Zmdaf-28" value="插件框架" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
+          <mxGeometry x="670.25" y="524" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0IH14s1VNWrK728Zmdaf-29" value="插件实现" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
+          <mxGeometry x="670.25" y="579.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
