@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T08:55:56.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="PZ-4ZjFH3seSD-Ah-g1L" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-23T08:56:16.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="4_mikTeOlLvpwD1V6KKE" version="14.8.0" type="github" pages="7">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1311" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1126,7 +1126,7 @@
         <mxCell id="0IH14s1VNWrK728Zmdaf-26" value="脚本引擎" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
           <mxGeometry x="673" y="499" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0IH14s1VNWrK728Zmdaf-27" value="对比分析模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Verdana;fontSize=20;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
+        <mxCell id="0IH14s1VNWrK728Zmdaf-27" value="扩展拆件模块" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;strokeColor=#36393d;strokeWidth=2;fillColor=#f9f7ed;fontFamily=Verdana;fontSize=20;align=center;arcSize=11;verticalAlign=top;dashed=1;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
           <mxGeometry x="598" y="441" width="267" height="210" as="geometry" />
         </mxCell>
         <mxCell id="0IH14s1VNWrK728Zmdaf-28" value="插件框架" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=15;align=center;spacing=6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="wKVvCoXZwpyXN_E91BWx-1">
