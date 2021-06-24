@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T13:25:16.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="GiaAAbHkoI7QU3gNfWOF" version="14.8.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-24T03:37:14.983Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="PNX9JILsTxWW-hA6663t" version="14.8.0" type="github" pages="8">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1311" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1165,6 +1165,14 @@
             <mxPoint x="252" y="1068" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dVhlsYoTDmfZIM-4KFSq" name="整体架构图">
+    <mxGraphModel dx="1311" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="1LvZqhP2Q44M2Z7S7neh-0" />
+        <mxCell id="1LvZqhP2Q44M2Z7S7neh-1" parent="1LvZqhP2Q44M2Z7S7neh-0" />
       </root>
     </mxGraphModel>
   </diagram>
