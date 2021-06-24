@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T03:50:55.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="AZZOR_2WbbuS8BNiwB0r" version="14.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-24T03:53:05.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="G6s1ApiGzvU8YsI3nKhn" version="14.8.0" type="github" pages="8">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1311" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1200,12 +1200,13 @@
         </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;entryX=0.996;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;elbow=vertical;" edge="1" parent="1LvZqhP2Q44M2Z7S7neh-1" target="86k2IjWcKxa0fXLoJaD5-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="924" y="703" as="sourcePoint" />
+            <mxPoint x="966" y="296" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86k2IjWcKxa0fXLoJaD5-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1LvZqhP2Q44M2Z7S7neh-1" source="86k2IjWcKxa0fXLoJaD5-17">
+        <mxCell id="86k2IjWcKxa0fXLoJaD5-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="949" y="605" as="targetPoint" />
+            <mxPoint x="946.5" y="708.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" edge="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
@@ -1243,11 +1244,8 @@
         <mxCell id="86k2IjWcKxa0fXLoJaD5-16" value="Geography&lt;br&gt;Data" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=7;" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
           <mxGeometry x="924.0000000000001" y="557.7499999999999" width="50" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="86k2IjWcKxa0fXLoJaD5-17" value="HDInsight" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/HDInsight.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=4;" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
-          <mxGeometry x="924.0000000000001" y="683.7500000000001" width="50" height="38.5" as="geometry" />
-        </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-18" value="Machine&lt;br&gt;Learning" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/Machine_Learning.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
-          <mxGeometry x="784" y="678.0000000000001" width="49" height="50" as="geometry" />
+          <mxGeometry x="826" y="271.0000000000001" width="49" height="50" as="geometry" />
         </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-20" value="SQL Data&lt;br&gt;Warehouse" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;labelBackgroundColor=#ffffff;fillColor=#4D9900;spacingTop=6;" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
           <mxGeometry x="1118.7499999999998" y="678" width="37.5" height="50" as="geometry" />
@@ -1256,7 +1254,10 @@
           <mxGeometry x="1114" y="554" width="47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-24" value="回放能力" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.media_service;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
-          <mxGeometry x="926.5" y="795" width="45" height="50" as="geometry" />
+          <mxGeometry x="683" y="930" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="86k2IjWcKxa0fXLoJaD5-25" value="用例管理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.dropbox_code_source;dashed=1;fontSize=14;fontColor=#004C99" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
+          <mxGeometry x="668" y="795" width="50" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
