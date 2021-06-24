@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T08:33:17.788Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="7pEGftE0GhY8jg0rUw5K" version="14.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-24T08:50:42.662Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="r3aSBtec-5zj9WPj98Ph" version="14.8.0" type="github" pages="8">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1000" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1298,16 +1298,6 @@
         </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-44" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;影子链路&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;fillColor=#3399FF;shape=mxgraph.azure.azure_active_directory;fontFamily=Helvetica;fontSize=15;" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
           <mxGeometry x="899" y="621.25" width="47.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="86k2IjWcKxa0fXLoJaD5-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#21C0A5;" edge="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="823.5" as="sourcePoint" />
-            <mxPoint x="705.95" y="931" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="990" y="886" />
-              <mxPoint x="706" y="886" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;startArrow=none;startFill=0;endArrow=classic;endFill=1;fillColor=#21C0A5;" edge="1" parent="1LvZqhP2Q44M2Z7S7neh-1" source="86k2IjWcKxa0fXLoJaD5-48" target="86k2IjWcKxa0fXLoJaD5-42">
           <mxGeometry relative="1" as="geometry">
