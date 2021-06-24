@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T07:20:02.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="_5F_wCXbzoZFik5iiH32" version="14.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-24T07:20:50.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="mrdZoygl3rhL5D8fzr5V" version="14.8.0" type="github" pages="8">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1311" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1261,6 +1261,9 @@
         </mxCell>
         <mxCell id="86k2IjWcKxa0fXLoJaD5-42" value="环境治理" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.content_delivery_network;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
           <mxGeometry x="1012" y="612" width="50" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="86k2IjWcKxa0fXLoJaD5-44" value="&lt;span&gt;影子链路&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_active_directory;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" vertex="1" parent="1LvZqhP2Q44M2Z7S7neh-1">
+          <mxGeometry x="850.5" y="770" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
